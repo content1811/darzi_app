@@ -14,7 +14,7 @@ const HeroSection = () => {
   return (
     <section className="hero">
       <video autoPlay loop muted className="background-video">
-        <source src="/background.mp4" type="video/mp4" />
+        <source src={`${process.env.PUBLIC_URL}/background.mp4`} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="content-overlay">

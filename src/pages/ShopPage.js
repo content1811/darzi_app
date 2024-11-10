@@ -7,25 +7,25 @@ const items = [
     id: 1,
     name: "Casual Look",
     price: "₹1500",
-    image: "/images/casual-outfit.jpg"
+    image: `${process.env.PUBLIC_URL}/images/casual-outfit.jpg`
   },
   {
     id: 2,
     name: "Formal Suit",
     price: "₹3500",
-    image: "/images/formal-suit.jpg"
+    image: `${process.env.PUBLIC_URL}/images/formal-suit.jpg`
   },
   {
     id: 3,
     name: "Sporty Outfit",
     price: "₹1200",
-    image: "/images/gym-outfit.jpg"
+    image: `${process.env.PUBLIC_URL}/images/gym-outfit.jpg`
   },
   {
     id: 4,
     name: "Trendy Jacket",
     price: "₹2500",
-    image: "/images/jacket.jpg"
+    image: `${process.env.PUBLIC_URL}/images/jacket.jpg`
   },
 ];
 
