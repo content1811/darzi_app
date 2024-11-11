@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/darzi_app/static/css/main.b460a2a6.css",
-    "main.js": "/darzi_app/static/js/main.256f8305.js",
+    "main.js": "/darzi_app/static/js/main.f61f0e65.js",
     "static/js/453.2dbbcb35.chunk.js": "/darzi_app/static/js/453.2dbbcb35.chunk.js",
     "index.html": "/darzi_app/index.html",
     "main.b460a2a6.css.map": "/darzi_app/static/css/main.b460a2a6.css.map",
-    "main.256f8305.js.map": "/darzi_app/static/js/main.256f8305.js.map",
+    "main.f61f0e65.js.map": "/darzi_app/static/js/main.f61f0e65.js.map",
     "453.2dbbcb35.chunk.js.map": "/darzi_app/static/js/453.2dbbcb35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b460a2a6.css",
-    "static/js/main.256f8305.js"
+    "static/js/main.f61f0e65.js"
   ]
 }
