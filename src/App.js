@@ -10,7 +10,7 @@ import ShopPage from './pages/ShopPage';
 
 function App() {
   return (
-    <Router basename="/darzi_app">
+    <Router>
       <Navbar />
       <Routes>
         <Route path="/" element={<LandingPage />} />
